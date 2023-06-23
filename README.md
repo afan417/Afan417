@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋 I'm Afan</h1>
+# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### - Languages and Tools:
-
+## 🔧 Languages and Tools:
 <span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
@@ -12,6 +11,6 @@
 
 
 
-### - 📫 Reach out to me:
+## 📫 Reach out to me:
  
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:afanajdari@gmail.com)
