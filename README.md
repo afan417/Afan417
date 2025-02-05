@@ -11,7 +11,11 @@
 <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 <img src="https://img.icons8.com/?size=40&id=ZmhVJt1Vv0Nk&format=png"/>
 <img style="display:inline; width: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-<img style="display:inline; width: 40px;" src="https://camo.githubusercontent.com/f32e9cca1f0df0138a8f536217daa54ad21b6913642422f32e3c5c623f3a06b9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667"/>
+<img style="display:inline; width: 40px; height: 40px;" src="https://cdn.worldvectorlogo.com/logos/astrojs.svg"/>
+<img style="display:inline; width: 40px;" src="https://static-00.iconduck.com/assets.00/figma-icon-128x128-vq9w9f3u.png"/>
+<img style="display:inline; width: 40px; height: 25px;" src="https://freepngimg.com/icon/download/search/384-alpinejs-logo.png"/>
+
+
 
 
 ## 📫 Reach out to me:
