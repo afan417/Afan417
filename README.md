@@ -15,9 +15,8 @@
 <img style="display:inline; width: 40px;" src="https://static-00.iconduck.com/assets.00/figma-icon-128x128-vq9w9f3u.png"/>
 <img style="display:inline; width: 40px; height: 25px;" src="https://freepngimg.com/icon/download/search/384-alpinejs-logo.png"/>
 
-
-
-
 ## 📫 Reach out to me:
  
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:afanajdari@gmail.com)
+
+> ![](https://komarev.com/ghpvc/?username=afan417)
