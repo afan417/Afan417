@@ -9,6 +9,8 @@
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+<img style="display:inline; width: 40px; height: 40px;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
+<img style="display:inline; width: 40px; height: 40px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/>
 <img src="https://img.icons8.com/?size=40&id=ZmhVJt1Vv0Nk&format=png"/>
 <img style="display:inline; width: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 <img style="display:inline; width: 40px; height: 40px;" src="https://cdn.worldvectorlogo.com/logos/astrojs.svg"/>
